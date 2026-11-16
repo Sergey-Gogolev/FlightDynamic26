@@ -1,2 +1,4 @@
-# FlyghtDynamics26
-inogda ya chuvstvutu seba kak ...
+# FlightDynamic26
+
+inogda ya chuvstvutu seb'a good
+
