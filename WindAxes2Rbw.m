@@ -1,5 +1,5 @@
 function Rbw = WindAxes2Rbw(axs)
-a = axs(1); b = axs(2);
+a = axs(2); b = axs(3);
 
 R1 = [[cos(a), 0, sin(a)];
       [0, 1, 0];
